@@ -9,11 +9,11 @@ module.exports = {
     
     // Renk kodları (embed'ler için)
     colors: {
-        primary: 0xFFD700,    // Altın sarısı
+        primary: 0x3F1D2E,    // Koyu mor
         success: 0x00FF00,    // Yeşil
         error: 0xFF0000,      // Kırmızı
         warning: 0xFFA500,    // Turuncu
-        info: 0x0099FF        // Mavi
+        info: 0x3F1D2E        // Koyu mor
     },
     
     // Emoji'ler
